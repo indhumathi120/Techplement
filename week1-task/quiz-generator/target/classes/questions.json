@@ -1,0 +1,106 @@
+[
+    {
+      "id": 1,
+      "category": "GK",
+      "questionDescription": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "Madrid", "Rome"],
+      "rightAnswer": "Paris",
+      "mark": 5
+    },
+    {
+      "id": 2,
+      "category": "Mathematics",
+      "questionDescription": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "rightAnswer": "4",
+      "mark": 2
+    },
+    {
+      "id": 3,
+      "category": "GK",
+      "questionDescription": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "rightAnswer": "Harper Lee",
+      "mark": 4
+    },
+  {
+    "id": 4,
+    "category": "Science",
+    "questionDescription": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Go", "Gl"],
+    "rightAnswer": "Au",
+    "mark": 4
+  },
+  {
+    "id": 5,
+    "category": "History",
+    "questionDescription": "Who was the first president of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "rightAnswer": "George Washington",
+    "mark": 4
+  },
+  {
+    "id": 6,
+    "category": "Mathematics",
+    "questionDescription": "What is the square root of 144?",
+    "options": ["10", "12", "14", "16"],
+    "rightAnswer": "12",
+    "mark": 4
+  },
+  {
+    "id": 9,
+    "category": "Science",
+    "questionDescription": "What is the speed of light in a vacuum?",
+    "options": ["299,792 kilometers per second", "150,000 kilometers per second", "500,000 kilometers per second", "750,000 kilometers per second"],
+    "rightAnswer": "299,792 kilometers per second",
+    "mark": 4
+  },
+  {
+    "id": 10,
+    "category": "Science",
+    "questionDescription": "What is the pH level of pure water?",
+    "options": ["6", "7", "8", "5"],
+    "rightAnswer": "7",
+    "mark": 4
+  },
+  {
+    "id": 11,
+    "category": "Science",
+    "questionDescription": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic reticulum"],
+    "rightAnswer": "Mitochondria",
+    "mark": 4
+  },
+  {
+    "id": 12,
+    "category": "GK",
+    "questionDescription": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Kalahari Desert"],
+    "rightAnswer": "Sahara Desert",
+    "mark": 4
+  },
+  {
+    "id": 13,
+    "category": "GK",
+    "questionDescription": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "India", "Japan", "South Korea"],
+    "rightAnswer": "Japan",
+    "mark": 4
+  },
+  {
+    "id": 14,
+    "category": "GK",
+    "questionDescription": "What is the tallest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "rightAnswer": "Mount Everest",
+    "mark": 4
+  },
+  {
+    "id": 15,
+    "category": "History",
+    "questionDescription": "In which year did the American Civil War end?",
+    "options": ["1865", "1860", "1870", "1855"],
+    "rightAnswer": "1865",
+    "mark": 4
+  }
+]
